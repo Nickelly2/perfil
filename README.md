@@ -2,7 +2,7 @@
 
 ### 📌 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por **Python** e iniciando minha jornada no universo da programação para dados. Tenho experiência mínima, mas estou 100% focada em transformar teoria em prática, desenvolvendo projetos reais e adquirindo experiência para crescer na área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, estudando **Python**. Tenho experiência mínima, mas estou 100% focada em transformar teoria em prática, desenvolvendo projetos reais e adquirindo experiência para crescer na área de tecnologia.
 
 > *"Estudante de ADS | Explorando Python e Análise de Dados. Buscando minha 1ª oportunidade para aplicar conhecimentos, adquirir prática e crescer na área de T.I."*
 
